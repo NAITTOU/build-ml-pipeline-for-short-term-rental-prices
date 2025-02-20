@@ -594,6 +594,14 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+## Wandb project
+
+[Wandb project](https://wandb.ai/naittou-soufiane/nyc_airbnb)
+
+## Github repository
+
+[Github repository](https://github.com/NAITTOU/build-ml-pipeline-for-short-term-rental-prices.git)
+
 
 ## License
 
